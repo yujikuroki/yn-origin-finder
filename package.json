@@ -1,0 +1,22 @@
+{
+  "name": "yn-origin-finder",
+  "version": "1.0.0",
+  "description": "Yahoo!ニュースの記事の配信元ページを探すブックマークレットです。",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujikuroki/yn-origin-finder.git"
+  },
+  "author": "Yuji Kuroki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yujikuroki/yn-origin-finder/issues"
+  },
+  "homepage": "https://github.com/yujikuroki/yn-origin-finder#readme",
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3"
+  }
+}
